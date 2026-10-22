@@ -1,0 +1,12 @@
+{
+  "scope": "synthetic small model, not pretrained accuracy",
+  "status": "PASS",
+  "custom_vs_decode_detrend_disabled_max_abs": 0.0,
+  "custom_vs_decode_detrend_enabled_max_abs": 5.411826133728027,
+  "masked_future_target_change_max_abs": 0.0,
+  "known_future_covariate_change_max_abs": 0.6796684265136719,
+  "gradient_parameter_names": [
+    "output_head.weight",
+    "output_head.bias"
+  ]
+}
